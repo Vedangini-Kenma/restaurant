@@ -1,2 +1,2 @@
 # restaurant
-restaurant outliers according to income and further visualization
+restaurant outliers according to views and further visualization
